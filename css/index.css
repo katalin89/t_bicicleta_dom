@@ -1,0 +1,18 @@
+
+body{
+    background-color: rgb(145, 239, 242);
+}
+.meniu{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+button{
+    background-color: rgb(62, 62, 110);
+    color: white;
+}
+
+.dispare{
+    display:none;
+}
